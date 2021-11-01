@@ -1,4 +1,4 @@
-# Tugas Laravel PPL
+# Tugas Dokumentasi PPL
 ## SenKu - Sehat n Kuat
 
 - Maulana Zia Ul Haq      (24060119140084)
