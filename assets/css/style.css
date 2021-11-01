@@ -79,6 +79,14 @@ ul, ol {
   color: #fff;
 }
 
+.homepage ul li a {
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 500;
+  /* color: rgba(255, 255, 255, 0.75); */
+  color: #fff;
+}
+
 .tengah {
   top: 50%;
  -ms-transform: translateY(-50%);
@@ -115,5 +123,19 @@ ul, ol {
 .rounded-two:hover {
   border: 2px transparent;
   background-color: #0d6efd;
+  color: #fff;
+}
+
+.rounded-three {
+  border: 2px transparent;
+  border-radius: 15px;
+  background-color: #0d6efd;
+  text-decoration: none;
+  color: #fff;
+}
+
+.rounded-three:hover {
+  border: 2px solid #fff;
+  background-color: transparent;
   color: #fff;
 }
