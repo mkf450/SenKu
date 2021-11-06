@@ -74,7 +74,7 @@ ul, ol {
   text-transform: capitalize;
 }
 
-/* homepage */
+/* homepage start */
 .homepage h2, p {
   color: #fff;
 }
@@ -83,22 +83,21 @@ ul, ol {
   text-transform: uppercase;
   font-size: 18px;
   font-weight: 500;
-  /* color: rgba(255, 255, 255, 0.75); */
   color: #fff;
 }
 
-.tengah {
+.homepage .tengah {
   top: 50%;
  -ms-transform: translateY(-50%);
  transform: translateY(-50%);
  position: absolute;
 }
 
-.tombol {
+.homepage .tombol {
   display: flex;
 }
 
-.rounded-one {
+.homepage .rounded-one {
   border: 2px transparent;
   border-radius: 25px;
   background-color: #0d6efd;
@@ -106,13 +105,13 @@ ul, ol {
   color: #fff;
 }
 
-.rounded-one:hover {
+.homepage .rounded-one:hover {
   border: 2px solid #fff;
   background-color: transparent;
   color: #fff;
 }
 
-.rounded-two {
+.homepage .rounded-two {
   border: 2px solid #fff;
   border-radius: 25px;
   background-color: transparent;
@@ -120,8 +119,24 @@ ul, ol {
   color: #fff;
 }
 
-.rounded-two:hover {
-  border: 2px transparent;
+.homepage .rounded-two:hover {
+  border: 2px solid transparent;
   background-color: #0d6efd;
   color: #fff;
 }
+
+.homepage .login {
+  border: 2px solid transparent;
+}
+
+.homepage .login:hover {
+  border: 2px solid #fff;
+  background-color: transparent;
+}
+/* homepage end */
+
+/* feature start */
+.feature {
+  
+}
+/* feature end */
