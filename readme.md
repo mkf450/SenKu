@@ -6,5 +6,3 @@
 - Irfaan Abiyyu Annas     (24060119140063)
 - Rashif Dhafin Fairiza   (24060119140079)
 - Giffari Agza Fahlevi    (24060119140082)
-
-this website is just for testing only
