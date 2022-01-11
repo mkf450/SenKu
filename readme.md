@@ -1,8 +1,9 @@
-# Tugas Dokumentasi PPL
-## SenKu - Sehat n Kuat
+# SenKu - Sehat n Kuat
+Sehat dan Kuat (SenKu) adalah aplikasi berbasis web yang berfungsi untuk pengingat/reminder kebutuhan sehari-hari seperti makan, minum maupun olahraga, pencari informasi kesehatan, dan pembelajaran yang berisi video dan kelas kebugaran. Aplikasi ini dibuat dengan tujuan untuk meningkatkan kesadaran pengguna terhadap kesehatannya. Aplikasi ini memiliki sasaran kepada seluruh penduduk di dunia yang memiliki minat dalam pola hidup sehat, kurang memiliki inisiatif dalam kebiasaan hidup sehat, maupun yang memiliki resiko terhadap penyakit tertentu.
 
-- Maulana Zia Ul Haq      (24060119140084)
-- Muhammad Keenan F       (24060119130052)
-- Irfaan Abiyyu Annas     (24060119140063)
-- Rashif Dhafin Fairiza   (24060119140079)
-- Giffari Agza Fahlevi    (24060119140082)
+### Our Team
+- Maulana Zia Ul Haq
+- Muhammad Keenan F 
+- Irfaan Abiyyu Annas
+- Rashif Dhafin Fairiza
+- Giffari Agza Fahlevi 
